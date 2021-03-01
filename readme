@@ -15,3 +15,9 @@ Tasks to do
 1. deploy heroku
 2.user login and states and stuff
 
+
+
+Resume 
+Polling Website
+Point 1 - Developed a website where one create polls and vote for the options mentioned while creating the poll.
+POint 2 - The webiste was developed on Django backend framework with the front end rendered using HTML,CSS and BOOTSTRAP.

@@ -50,6 +50,7 @@ defusedxml==0.6.0
 diff-match-patch==20181111
 distlib==0.3.1
 distributed==2.11.0
+dj-database-url==0.5.0
 Django==3.1
 django-widget-tweaks==1.4.8
 docutils==0.16
@@ -71,6 +72,7 @@ google-auth-oauthlib==0.4.2
 google-pasta==0.2.0
 greenlet==0.4.15
 grpcio==1.33.2
+gunicorn==20.0.4
 h5py==2.10.0
 HeapDict==1.0.1
 html5lib==1.0.1
@@ -187,6 +189,7 @@ pytest-doctestplus==0.5.0
 pytest-openfiles==0.4.0
 pytest-remotedata==0.3.2
 python-dateutil==2.8.1
+python-decouple==3.4
 python-jsonrpc-server==0.3.4
 python-language-server==0.31.7
 pytz==2019.3
@@ -257,6 +260,7 @@ watchdog==0.10.2
 wcwidth==0.1.8
 webencodings==0.5.1
 Werkzeug==1.0.0
+whitenoise==5.2.0
 widgetsnbextension==3.5.1
 wrapt==1.11.2
 wurlitzer==2.0.0
@@ -269,5 +273,3 @@ yapf==0.28.0
 yfinance==0.1.54
 zict==1.0.0
 zipp==2.2.0
-gunicorn==19.6.0
-whitenoise==5.2.0

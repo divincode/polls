@@ -1,0 +1,17 @@
+almost finsihed the basic app
+to use
+clone the repostiory
+install the requirements -
+    python
+    django
+    django-webkits
+
+to run 
+    python manage.py makemigrations
+    python manage.py migrate
+    python manage.py runserver
+
+Tasks to do  
+1. deploy heroku
+2.user login and states and stuff
+
